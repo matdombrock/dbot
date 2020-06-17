@@ -1,0 +1,8 @@
+{
+  "command_prefix":".",
+  "help_prefix":"?",
+  "admin_role": "Admin",
+  "always_listen":false,
+  "console_divider":"-------",
+  "enforce_direct":false
+}
